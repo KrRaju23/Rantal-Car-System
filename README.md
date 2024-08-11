@@ -1,6 +1,5 @@
 
-
-Car Rental System
+# Car Rental System
 
 A Java-based Car Rental System with a graphical user interface (GUI) developed using Swing. This project allows users to manage car rentals, including renting and returning cars, and viewing available cars.
 
